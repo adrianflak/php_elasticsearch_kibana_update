@@ -1,0 +1,11 @@
+{
+    "require": {
+      "vlucas/phpdotenv": "^5.5",
+        "elasticsearch/elasticsearch": "^7.17"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
